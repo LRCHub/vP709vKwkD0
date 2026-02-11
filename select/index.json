@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Forget Me Nots",
+  "base_artist": "Patrice Rushen",
+  "createdAt": "2026-02-11T12:42:41.821959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forget Me Nots",
+      "artist": "La Bouche",
+      "has_synced": true,
+      "path": "select/01_Forget_Me_Nots_La_Bouche.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forget Me Nots",
+      "artist": "Patrice Rushen",
+      "has_synced": true,
+      "path": "select/02_Forget_Me_Nots_Patrice_Rushen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forget Me Nots",
+      "artist": "Patrice Rushen",
+      "has_synced": false,
+      "path": "select/03_Forget_Me_Nots_Patrice_Rushen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forget Me Nots",
+      "artist": "Patrice Rushen",
+      "has_synced": true,
+      "path": "select/04_Forget_Me_Nots_Patrice_Rushen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forget Me Nots - 12\" Version",
+      "artist": "Patrice Rushen",
+      "has_synced": true,
+      "path": "select/05_Forget_Me_Nots_-_12__Version_Patrice_Rushen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forget Me Nots",
+      "artist": "La Bouche",
+      "has_synced": true,
+      "path": "select/06_Forget_Me_Nots_La_Bouche.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forget Me Nots",
+      "artist": "Patrice Rushen",
+      "has_synced": false,
+      "path": "select/07_Forget_Me_Nots_Patrice_Rushen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forget Me Nots",
+      "artist": "Patricia Rushen",
+      "has_synced": true,
+      "path": "select/08_Forget_Me_Nots_Patricia_Rushen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forget Me Nots (Single Version)",
+      "artist": "Patrice Rushen",
+      "has_synced": true,
+      "path": "select/09_Forget_Me_Nots_(Single_Version)_Patrice_Rushen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Holly Hox, Forget Me Nots",
+      "artist": "SAVES THE DAY",
+      "has_synced": true,
+      "path": "select/10_Holly_Hox,_Forget_Me_Nots_SAVES_THE_DAY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forget Me Nots (original 12″ version)",
+      "artist": "Patrice Rushen",
+      "has_synced": false,
+      "path": "select/11_Forget_Me_Nots_(original_12′′_version)_Patrice_Rushen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Forget Me Nots (Remastered)",
+      "artist": "Patrice Rushen",
+      "has_synced": true,
+      "path": "select/12_Forget_Me_Nots_(Remastered)_Patrice_Rushen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forget Me Nots",
+      "artist": "Patrice Rushen",
+      "has_synced": false,
+      "path": "select/pl_01_Forget_Me_Nots_Patrice_Rushen.txt"
+    }
+  ]
+}
